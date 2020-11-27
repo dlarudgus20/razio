@@ -1,0 +1,17 @@
+{
+  "mapfile": "launchpad.txt",
+  "network": [
+    {
+      "type": "connection",
+      "from": {
+        "x": 0,
+        "y": 9
+      },
+      "to": {
+        "map": "",
+        "x": 39,
+        "y": 9
+      }
+    }
+  ]
+}
